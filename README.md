@@ -57,7 +57,7 @@ word with 4 vowels = 1
 word with 2 chars = 0
 word with 3 chars = 3
 word with 4 chars = 0
-word with 9 chars = 1
+word with 5 chars = 0
 
 after removing words with 3 chars 
 [alligator, chicken, buffalo]
